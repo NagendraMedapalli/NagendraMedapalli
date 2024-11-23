@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate, thriving DevOps engineer from India</h3>
 
-- 🌱 I’m currently learning **DevOps tools**
+- 🌱 **DevOps Enthusiast**
 
 - 📫 How to reach me **nagjune10@gmail.com**
 
